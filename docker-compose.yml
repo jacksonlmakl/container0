@@ -19,3 +19,23 @@ services:
     privileged: true  # Required for Docker-in-Docker
     restart: unless-stopped
     container_name: framework-app
+  core_framework:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        - NO_CACHE=1  
+    volumes:
+      - ./core_controller.yaml:/app/controller.yaml
+      - ./core_model:/app/model
+    ports:
+      - "3001:3000"  # Frontend port
+      - "5001:5000"  # Backend port
+
+    environment:
+      - NODE_ENV=production
+      - REACT_APP_API_URL=http://localhost:5000
+    privileged: true  # Required for Docker-in-Docker
+    restart: unless-stopped
+    container_name: framework-core-app
+
