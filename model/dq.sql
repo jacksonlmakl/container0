@@ -1,1 +1,1 @@
-SELECT COUNT(*) FROM raw.pokemon
+SELECT COUNT(*) as count FROM raw.pokemon
