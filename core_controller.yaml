@@ -9,3 +9,5 @@ steps:
   - name: Insert
     execute: data.json
     table: insert.yml
+  - name: S3
+    execute: s3
