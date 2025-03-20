@@ -1,0 +1,1098 @@
+[
+    {
+        "id": 1,
+        "name": "bulbasaur",
+        "height": 7,
+        "weight": 69,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 49,
+            "defense": 49,
+            "special-attack": 65,
+            "special-defense": 65,
+            "speed": 45
+        }
+    },
+    {
+        "id": 2,
+        "name": "ivysaur",
+        "height": 10,
+        "weight": 130,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "special-attack": 80,
+            "special-defense": 80,
+            "speed": 60
+        }
+    },
+    {
+        "id": 3,
+        "name": "venusaur",
+        "height": 20,
+        "weight": 1000,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ],
+        "stats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "special-attack": 100,
+            "special-defense": 100,
+            "speed": 80
+        }
+    },
+    {
+        "id": 4,
+        "name": "charmander",
+        "height": 6,
+        "weight": 85,
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ],
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "defense": 43,
+            "special-attack": 60,
+            "special-defense": 50,
+            "speed": 65
+        }
+    },
+    {
+        "id": 5,
+        "name": "charmeleon",
+        "height": 11,
+        "weight": 190,
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ],
+        "stats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "special-attack": 80,
+            "special-defense": 65,
+            "speed": 80
+        }
+    },
+    {
+        "id": 6,
+        "name": "charizard",
+        "height": 17,
+        "weight": 905,
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ],
+        "stats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "special-attack": 109,
+            "special-defense": 85,
+            "speed": 100
+        }
+    },
+    {
+        "id": 7,
+        "name": "squirtle",
+        "height": 5,
+        "weight": 90,
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 44,
+            "attack": 48,
+            "defense": 65,
+            "special-attack": 50,
+            "special-defense": 64,
+            "speed": 43
+        }
+    },
+    {
+        "id": 8,
+        "name": "wartortle",
+        "height": 10,
+        "weight": 225,
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "special-attack": 65,
+            "special-defense": 80,
+            "speed": 58
+        }
+    },
+    {
+        "id": 9,
+        "name": "blastoise",
+        "height": 16,
+        "weight": 855,
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ],
+        "stats": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "special-attack": 85,
+            "special-defense": 105,
+            "speed": 78
+        }
+    },
+    {
+        "id": 10,
+        "name": "caterpie",
+        "height": 3,
+        "weight": 29,
+        "types": [
+            "bug"
+        ],
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 35,
+            "special-attack": 20,
+            "special-defense": 20,
+            "speed": 45
+        }
+    },
+    {
+        "id": 11,
+        "name": "metapod",
+        "height": 7,
+        "weight": 99,
+        "types": [
+            "bug"
+        ],
+        "abilities": [
+            "shed-skin"
+        ],
+        "stats": {
+            "hp": 50,
+            "attack": 20,
+            "defense": 55,
+            "special-attack": 25,
+            "special-defense": 25,
+            "speed": 30
+        }
+    },
+    {
+        "id": 12,
+        "name": "butterfree",
+        "height": 11,
+        "weight": 320,
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "abilities": [
+            "compound-eyes",
+            "tinted-lens"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 50,
+            "special-attack": 90,
+            "special-defense": 80,
+            "speed": 70
+        }
+    },
+    {
+        "id": 13,
+        "name": "weedle",
+        "height": 3,
+        "weight": 32,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 35,
+            "defense": 30,
+            "special-attack": 20,
+            "special-defense": 20,
+            "speed": 50
+        }
+    },
+    {
+        "id": 14,
+        "name": "kakuna",
+        "height": 6,
+        "weight": 100,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "shed-skin"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 25,
+            "defense": 50,
+            "special-attack": 25,
+            "special-defense": 25,
+            "speed": 35
+        }
+    },
+    {
+        "id": 15,
+        "name": "beedrill",
+        "height": 10,
+        "weight": 295,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "swarm",
+            "sniper"
+        ],
+        "stats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 40,
+            "special-attack": 45,
+            "special-defense": 80,
+            "speed": 75
+        }
+    },
+    {
+        "id": 16,
+        "name": "pidgey",
+        "height": 3,
+        "weight": 18,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 40,
+            "special-attack": 35,
+            "special-defense": 35,
+            "speed": 56
+        }
+    },
+    {
+        "id": 17,
+        "name": "pidgeotto",
+        "height": 11,
+        "weight": 300,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ],
+        "stats": {
+            "hp": 63,
+            "attack": 60,
+            "defense": 55,
+            "special-attack": 50,
+            "special-defense": 50,
+            "speed": 71
+        }
+    },
+    {
+        "id": 18,
+        "name": "pidgeot",
+        "height": 15,
+        "weight": 395,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ],
+        "stats": {
+            "hp": 83,
+            "attack": 80,
+            "defense": 75,
+            "special-attack": 70,
+            "special-defense": 70,
+            "speed": 101
+        }
+    },
+    {
+        "id": 19,
+        "name": "rattata",
+        "height": 3,
+        "weight": 35,
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ],
+        "stats": {
+            "hp": 30,
+            "attack": 56,
+            "defense": 35,
+            "special-attack": 25,
+            "special-defense": 35,
+            "speed": 72
+        }
+    },
+    {
+        "id": 20,
+        "name": "raticate",
+        "height": 7,
+        "weight": 185,
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ],
+        "stats": {
+            "hp": 55,
+            "attack": 81,
+            "defense": 60,
+            "special-attack": 50,
+            "special-defense": 70,
+            "speed": 97
+        }
+    },
+    {
+        "id": 21,
+        "name": "spearow",
+        "height": 3,
+        "weight": 20,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "sniper"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 60,
+            "defense": 30,
+            "special-attack": 31,
+            "special-defense": 31,
+            "speed": 70
+        }
+    },
+    {
+        "id": 22,
+        "name": "fearow",
+        "height": 12,
+        "weight": 380,
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "sniper"
+        ],
+        "stats": {
+            "hp": 65,
+            "attack": 90,
+            "defense": 65,
+            "special-attack": 61,
+            "special-defense": 61,
+            "speed": 100
+        }
+    },
+    {
+        "id": 23,
+        "name": "ekans",
+        "height": 20,
+        "weight": 69,
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 60,
+            "defense": 44,
+            "special-attack": 40,
+            "special-defense": 54,
+            "speed": 55
+        }
+    },
+    {
+        "id": 24,
+        "name": "arbok",
+        "height": 35,
+        "weight": 650,
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "intimidate",
+            "shed-skin",
+            "unnerve"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 69,
+            "special-attack": 65,
+            "special-defense": 79,
+            "speed": 80
+        }
+    },
+    {
+        "id": 25,
+        "name": "pikachu",
+        "height": 4,
+        "weight": 60,
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "static",
+            "lightning-rod"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 55,
+            "defense": 40,
+            "special-attack": 50,
+            "special-defense": 50,
+            "speed": 90
+        }
+    },
+    {
+        "id": 26,
+        "name": "raichu",
+        "height": 8,
+        "weight": 300,
+        "types": [
+            "electric"
+        ],
+        "abilities": [
+            "static",
+            "lightning-rod"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 90,
+            "defense": 55,
+            "special-attack": 90,
+            "special-defense": 80,
+            "speed": 110
+        }
+    },
+    {
+        "id": 27,
+        "name": "sandshrew",
+        "height": 6,
+        "weight": 120,
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "sand-veil",
+            "sand-rush"
+        ],
+        "stats": {
+            "hp": 50,
+            "attack": 75,
+            "defense": 85,
+            "special-attack": 20,
+            "special-defense": 30,
+            "speed": 40
+        }
+    },
+    {
+        "id": 28,
+        "name": "sandslash",
+        "height": 10,
+        "weight": 295,
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "sand-veil",
+            "sand-rush"
+        ],
+        "stats": {
+            "hp": 75,
+            "attack": 100,
+            "defense": 110,
+            "special-attack": 45,
+            "special-defense": 55,
+            "speed": 65
+        }
+    },
+    {
+        "id": 29,
+        "name": "nidoran-f",
+        "height": 4,
+        "weight": 70,
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ],
+        "stats": {
+            "hp": 55,
+            "attack": 47,
+            "defense": 52,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 41
+        }
+    },
+    {
+        "id": 30,
+        "name": "nidorina",
+        "height": 8,
+        "weight": 200,
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ],
+        "stats": {
+            "hp": 70,
+            "attack": 62,
+            "defense": 67,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 56
+        }
+    },
+    {
+        "id": 31,
+        "name": "nidoqueen",
+        "height": 13,
+        "weight": 600,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "sheer-force"
+        ],
+        "stats": {
+            "hp": 90,
+            "attack": 92,
+            "defense": 87,
+            "special-attack": 75,
+            "special-defense": 85,
+            "speed": 76
+        }
+    },
+    {
+        "id": 32,
+        "name": "nidoran-m",
+        "height": 5,
+        "weight": 90,
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ],
+        "stats": {
+            "hp": 46,
+            "attack": 57,
+            "defense": 40,
+            "special-attack": 40,
+            "special-defense": 40,
+            "speed": 50
+        }
+    },
+    {
+        "id": 33,
+        "name": "nidorino",
+        "height": 9,
+        "weight": 195,
+        "types": [
+            "poison"
+        ],
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "hustle"
+        ],
+        "stats": {
+            "hp": 61,
+            "attack": 72,
+            "defense": 57,
+            "special-attack": 55,
+            "special-defense": 55,
+            "speed": 65
+        }
+    },
+    {
+        "id": 34,
+        "name": "nidoking",
+        "height": 14,
+        "weight": 620,
+        "types": [
+            "poison",
+            "ground"
+        ],
+        "abilities": [
+            "poison-point",
+            "rivalry",
+            "sheer-force"
+        ],
+        "stats": {
+            "hp": 81,
+            "attack": 102,
+            "defense": 77,
+            "special-attack": 85,
+            "special-defense": 75,
+            "speed": 85
+        }
+    },
+    {
+        "id": 35,
+        "name": "clefairy",
+        "height": 6,
+        "weight": 75,
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "cute-charm",
+            "magic-guard",
+            "friend-guard"
+        ],
+        "stats": {
+            "hp": 70,
+            "attack": 45,
+            "defense": 48,
+            "special-attack": 60,
+            "special-defense": 65,
+            "speed": 35
+        }
+    },
+    {
+        "id": 36,
+        "name": "clefable",
+        "height": 13,
+        "weight": 400,
+        "types": [
+            "fairy"
+        ],
+        "abilities": [
+            "cute-charm",
+            "magic-guard",
+            "unaware"
+        ],
+        "stats": {
+            "hp": 95,
+            "attack": 70,
+            "defense": 73,
+            "special-attack": 95,
+            "special-defense": 90,
+            "speed": 60
+        }
+    },
+    {
+        "id": 37,
+        "name": "vulpix",
+        "height": 6,
+        "weight": 99,
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "flash-fire",
+            "drought"
+        ],
+        "stats": {
+            "hp": 38,
+            "attack": 41,
+            "defense": 40,
+            "special-attack": 50,
+            "special-defense": 65,
+            "speed": 65
+        }
+    },
+    {
+        "id": 38,
+        "name": "ninetales",
+        "height": 11,
+        "weight": 199,
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "flash-fire",
+            "drought"
+        ],
+        "stats": {
+            "hp": 73,
+            "attack": 76,
+            "defense": 75,
+            "special-attack": 81,
+            "special-defense": 100,
+            "speed": 100
+        }
+    },
+    {
+        "id": 39,
+        "name": "jigglypuff",
+        "height": 5,
+        "weight": 55,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "abilities": [
+            "cute-charm",
+            "competitive",
+            "friend-guard"
+        ],
+        "stats": {
+            "hp": 115,
+            "attack": 45,
+            "defense": 20,
+            "special-attack": 45,
+            "special-defense": 25,
+            "speed": 20
+        }
+    },
+    {
+        "id": 40,
+        "name": "wigglytuff",
+        "height": 10,
+        "weight": 120,
+        "types": [
+            "normal",
+            "fairy"
+        ],
+        "abilities": [
+            "cute-charm",
+            "competitive",
+            "frisk"
+        ],
+        "stats": {
+            "hp": 140,
+            "attack": 70,
+            "defense": 45,
+            "special-attack": 85,
+            "special-defense": 50,
+            "speed": 45
+        }
+    },
+    {
+        "id": 41,
+        "name": "zubat",
+        "height": 8,
+        "weight": 75,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "abilities": [
+            "inner-focus",
+            "infiltrator"
+        ],
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "defense": 35,
+            "special-attack": 30,
+            "special-defense": 40,
+            "speed": 55
+        }
+    },
+    {
+        "id": 42,
+        "name": "golbat",
+        "height": 16,
+        "weight": 550,
+        "types": [
+            "poison",
+            "flying"
+        ],
+        "abilities": [
+            "inner-focus",
+            "infiltrator"
+        ],
+        "stats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 70,
+            "special-attack": 65,
+            "special-defense": 75,
+            "speed": 90
+        }
+    },
+    {
+        "id": 43,
+        "name": "oddish",
+        "height": 5,
+        "weight": 54,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "chlorophyll",
+            "run-away"
+        ],
+        "stats": {
+            "hp": 45,
+            "attack": 50,
+            "defense": 55,
+            "special-attack": 75,
+            "special-defense": 65,
+            "speed": 30
+        }
+    },
+    {
+        "id": 44,
+        "name": "gloom",
+        "height": 8,
+        "weight": 86,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "chlorophyll",
+            "stench"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 65,
+            "defense": 70,
+            "special-attack": 85,
+            "special-defense": 75,
+            "speed": 40
+        }
+    },
+    {
+        "id": 45,
+        "name": "vileplume",
+        "height": 12,
+        "weight": 186,
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "chlorophyll",
+            "effect-spore"
+        ],
+        "stats": {
+            "hp": 75,
+            "attack": 80,
+            "defense": 85,
+            "special-attack": 110,
+            "special-defense": 90,
+            "speed": 50
+        }
+    },
+    {
+        "id": 46,
+        "name": "paras",
+        "height": 3,
+        "weight": 54,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "abilities": [
+            "effect-spore",
+            "dry-skin",
+            "damp"
+        ],
+        "stats": {
+            "hp": 35,
+            "attack": 70,
+            "defense": 55,
+            "special-attack": 45,
+            "special-defense": 55,
+            "speed": 25
+        }
+    },
+    {
+        "id": 47,
+        "name": "parasect",
+        "height": 10,
+        "weight": 295,
+        "types": [
+            "bug",
+            "grass"
+        ],
+        "abilities": [
+            "effect-spore",
+            "dry-skin",
+            "damp"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 95,
+            "defense": 80,
+            "special-attack": 60,
+            "special-defense": 80,
+            "speed": 30
+        }
+    },
+    {
+        "id": 48,
+        "name": "venonat",
+        "height": 10,
+        "weight": 300,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "compound-eyes",
+            "tinted-lens",
+            "run-away"
+        ],
+        "stats": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 50,
+            "special-attack": 40,
+            "special-defense": 55,
+            "speed": 45
+        }
+    },
+    {
+        "id": 49,
+        "name": "venomoth",
+        "height": 15,
+        "weight": 125,
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "shield-dust",
+            "tinted-lens",
+            "wonder-skin"
+        ],
+        "stats": {
+            "hp": 70,
+            "attack": 65,
+            "defense": 60,
+            "special-attack": 90,
+            "special-defense": 75,
+            "speed": 90
+        }
+    },
+    {
+        "id": 50,
+        "name": "diglett",
+        "height": 2,
+        "weight": 8,
+        "types": [
+            "ground"
+        ],
+        "abilities": [
+            "sand-veil",
+            "arena-trap",
+            "sand-force"
+        ],
+        "stats": {
+            "hp": 10,
+            "attack": 55,
+            "defense": 25,
+            "special-attack": 35,
+            "special-defense": 45,
+            "speed": 95
+        }
+    }
+]

@@ -38,13 +38,12 @@ def fetch_pokemon_data(limit=NUM_POKEMON):
 
     return pokemon_data
 
-def save_to_json(data, filepath):
-    """Save data to a JSON file."""
-    with open(filepath, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=4, ensure_ascii=False)
 
-if __name__ == "__main__":
-    print("Fetching Pokémon data...")
-    data = fetch_pokemon_data()
-    save_to_json(data, file_path)
-    print(f"Data saved to {file_path}")
+print("Fetching Pokémon data...")
+data = fetch_pokemon_data()
+# Write the data to data.json
+with open('model/data.json', 'w') as json_file:
+   # Use indent for pretty formatting and ensure_ascii=False to handle non-ASCII characters
+   json.dump(data, json_file, indent=4, ensure_ascii=False)
+   
+print("Successfully created data.json")
