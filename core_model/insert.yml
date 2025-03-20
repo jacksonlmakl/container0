@@ -1,0 +1,10 @@
+name: pokemon2
+database: core
+primary_key: id
+schema_definition:
+  - [id, INTEGER]
+  - [name, VARCHAR]
+  - [weight, VARCHAR]
+  - [abilities, VARCHAR]
+  - [stats, VARCHAR]
+error_behavior: "null"
