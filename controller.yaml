@@ -1,8 +1,8 @@
 schedule: '* * * * *'
 s3:
   - name: jackson-storage
-  - access_key: AKIAY6QVZNFWURDKUUNF
-  - secret_key: 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
+  - access_key: ''
+  - secret_key: ''
 steps:
   - name: API Request
     execute: replicate.py
